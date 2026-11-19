@@ -1,6 +1,27 @@
----
+data---
 title: "proposal"
 format: html
 ---
 
-Proposal here
+```yaml
+---
+title: "Project Proposal"
+format: html
+---
+```
+
+# Vignette 1: Who has missing measurements in NHANES?
+
+NHANES collects information through interviews, exams, and lab tests, but participants may not be able to complete every part. I’ll explore who has missing *eligible* measurements, and whether missingness is associated with demographic characteristics (via a poisson/negative binomial), and how NHANES’s survey weights may inflate missingness.
+
+# Vignette 2: Who has missing measurements in NHANES?
+
+Vignette 2: I’ll combine RAND’s firearm-law data and CDC mortality data to explore whether changes in a selected state firearm law are associated with changes in firearm homicide mortality over time. Describe law and mortality trends, fit a count model (if the data support it), and interpret the results as associations.
+
+
+
+
+
+
+
+
